@@ -8,7 +8,7 @@ public class Employee {
     public Employee(String name, String email, Double salary) {
         this.name = name;
         this.email = email;
-        salary = salary;
+        this.salary = salary;
     }
 
     public String getName() {
